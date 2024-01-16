@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gfsx</title><link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+
+<audio id="my_audio" src="ily.m4a"></audio>
+<script>
+window.onload = function() {
+    document.getElementById("my_audio").play();
+}
+</script>
+<body background="dheekshitha.jpg" text="BLACK">
+
+<marquee width="100%"><h2>i hope this makes you feel happy</h2></marquee>
+<font color="dark blue"><h1><p>Dear Dheekshitha Sai Sree,</p>
+
+
+<p>As I sit to write this letter, I am filled with thoughts of you. Even though we have never met in person, the connection we share feels incredibly real and strong</p>
+
+<p>Your words, your thoughts, your dreams, they have all become a part of my daily life. Our conversations, filled with laughter and shared stories, have become the highlight of my day. They are the threads that weave the tapestry of our unique bond, a bond that distance and time have failed to weaken.</P>
+
+<p>Every message from you is like a ray of sunshine that brightens up my day, no matter how far apart we may be. Your words echo in my mind long after our conversations end, bringing a sense of joy and comfort that is hard to put into words.</p>
+
+I admire your strength, your passion, your dedication. You inspire me in ways you can't even imagine. Your determination in the face of challenges, your unwavering optimism, your kindness towards others, all of it makes me realize how fortunate I am to have you in my life.
+
+Our relationship, though separated by miles, is bound by a connection that transcends physical proximity. It's a bond that is nurtured by shared dreams, mutual respect, and a deep understanding of each other's lives. 
+
+I eagerly look forward to the day when we can finally meet. Until then, remember that you are always in my thoughts, that my days are brighter because of you. And even though I can't be there with you, know that you are always in my heart.
+
+Stay strong, stay positive, and remember that no matter the distance, no matter the time, you are always a part of me.
+
+Yours,
+[Your Name]
+</h1></font>
+
+
+
+
+</body>
+</html>
